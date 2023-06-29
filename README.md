@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankaMKaya](https://github.com/ankaMKaya)
 
-- 💬 Ask me about **OpenCV,Keras and Tenserflow**
+- 💬 Ask me about **Python, OpenCV, Keras and Tenserflow**
 
 - 📫 How to reach me **muhammed.kaya870@gmail.com**
 

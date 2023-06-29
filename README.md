@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankamkaya&show_icons=true&locale=en" alt="ankamkaya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankamkaya&" alt="ankamkaya" /></p>
+
+
+![snake gif](https://github.com/ankaMKaya/ankaMKaya/blob/output/github-contribution-grid-snake.gif)

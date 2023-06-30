@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammed kaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed kaya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammed-kaya-110454232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed kaya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17669435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="id(17669435) m-kaya" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammed.mkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammed.mkaya" height="30" width="40" /></a>
 </p>
